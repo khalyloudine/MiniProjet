@@ -1,0 +1,85 @@
+Cours-Gestion des projets informatiques
+I- Introduction
+Dans la politique d'entrepreneuriat il est fortement recommander au promoteur de définir la stratégie qui sera mis en oeuvre pour atteindre l'objectif fixé en amont.
+Cette démarche projet est aussi utilisée dans tout les secteurs d'activités : industriel, économique, social, culturel ...
+En effet, la démarche projet est toujours de mise, quelle soit formalisée ou pas. Il convient de noter que dans la démarche de projet un certains nombres d'exigences
+ doit être respecter pour maximiser les chances de réussite et minimiser les risques. 
+Pour cela le promoteur devra présenter :
+- Une fiche synoptique
+- Une étude de marché
+- Une étude technique
+- une étude de faisabilité
+- une étude financière 
+- une étude d'impact 
+Dans notre module nous utiliserons ce canevas comme plan de travail et procéderons à son illustration à travers des projets notamment informatique. 
+II- Généralités sur les projets
+	1- Objectifs
+Dans un projet il faut définir avec précision les objectifs qu'on s'est fixés afin de délimiter le cadre de travail ainsi nous aurons un objectif général et des objectifs spécifiques.
+Un objectif doit être claire, délimité (temps et espace), précis, mesurable(évaluation), bien ciblé(bénéficiaires) 
+Plane Do Check Act(PDCA)
+
+
+Un ensemble de projets visant le même objectif est appelé programme. Il est donc important de préciser l'interdépendances actions qui seront menées afin d'atteindre 
+avec efficacité, efficience, l'objectif visé.
+Ce dernier est présenté sous forme de résultat qui doit être mesurable. Le résultat une fois atteint est dénommé livrable.
+III. La Fiche synoptique
+Elle est le résumé du projet qui permet de synthétiser les points essentiels qui permettront aux bailleurs et partenaires de pouvoir apprécier la portée ou l'intérêt 
+du projet. A cet effet, on y trouve :
+- Intitulé du projet 
+- Promoteur du projet
+- Chef du projet
+- Objectifs du projet(Général et spécifiques)
+- Coût du projet
+- Durée (Début et fin)
+- Acteurs
+- Bénéficiaire
+- Partenaires(Techniques, Financiers)
+- Impact/Résultats attendus
+- Recettes(Chiffres d'affaires)
+- Taux de Rentabilité
+La plus part des projets présentés de façon synthétique sur la base de la fiche synoptique. Les modèles sont différents d'un projet à un autre ou suivant les organismes.
+Il est important de noter que certaines informations de la fiche synoptique ne peuvent être fournies qu'après avoir finaliser l'étude du projet.
+ 
+IV. L'Etude de marché 
+L'étude de marché est la phase la plus importante dans un projet. Toutes les parties de l'étude découlent sur la bonne connaissance du marché. 
+L'étude de marché permet d'évaluer les besoins des clients identifiés dans la niche. Au cours de cette évaluation il est important de déterminé les exigences des clients afin
+de garantir leurs satisfactions. Pour cela, il convient d'administrer des questionnaires et guides d'entretien qui permettront de circonscrire les besoins des clients. 
+A ce niveau il faudra utiliser des questions fermées quantitatives et qualitatives. 
+Une fois que les besoins des clients seront connus, il faudra tenir compte de la concurrence, en procédant par une analyse SWOT (ou FFOM) afin de connaitre les Forces, Faiblesses, Opportunités et Menaces. 
+La réglementation qui régit le secteur d'activité dans lequel nous voulons évolué devrait être intégré dans l'analyse. 
+V. Etude Technique 
+Dans l'étude technique il s'agira de procéder é l'élaboration des biens matériels et immatériels dont on aura besoin ainsi que les ressources humaines nous permettant d'atteindre les objectifs fixés dans le projet. 
+Exemple :
+- Besoins d'investissement: Construction d'un local, matériels informatiques, biens immobiliers, matériels roulants(voitures), les logiciels
+- Les ressources humaines
+- Fond de roulement (électricité, téléphone, matières premières ...)
+Cette évaluation des besoins doit être assez exhaustives afin de pouvoir se rapprocher de la réalité 
+
+VI. Etude Faisabilité 
+
+Dans l'étude de faisabilité, il s'agira de définir les meilleures stratégies é mettre en place afin de pouvoir réaliser ou atteindre les objectifs du projet. Cette stratégie doit respectée le triptyque suivant qualité, coût, délai. 
+Pour cela il convient de définir, plusieurs scénariis. Après avoir choisi le meilleur scénario, il faudra évaluer les coûts(investissements, ressources humaines, fond de roulement ...)afin de déterminer la moyenne. 
+Pour ce faire, le chef de projet devra définir une hypothèse haute, et une hypothèse basse. 
+Hypothèse haute: baisse de charge et augmentation des recettes
+Hypothèse basse: maximise les charges et diminue les recettes.
+Dans une étude faisabilité il faudra envisager les éventuels obstacles qui pourraient s'opposer à la bonne marche du projet. Ainsi, le chef de projet pourra réfléchir sur les solutions qui permettraient de pallier à ces contraintes ou proposer des produits de substitution. 
+VII. Etude Financière
+L'étude financière permet de chiffrer l'hypothèse posée dans l'étude de faisabilité mais surtout l'inventaire des besoins évalués dans l'étude technique. 
+Dans l'étude financière, il faudra intégrer le taux d'inflation(http://www.ansd.sn). Dans le tableau prévisionnel de l'étude financière il faudra éviter de dépasser 
+
+VIII. Etude d'impact
+
+Dans la présentation du Business Plan, l'étude de l'impact est fondamentale notamment s'il s'agit :
+- D'un projet industriel
+- D'un projet financé par l'état ou les bailleurs de fond. 
+En effet ces derniers portent une attention particuliére sur l'impact du projet dans différents domaines.
+L'étude d'impact portera essentiellement sur les points suivant:
+- Economique
+- Social
+- Environnemental ...
+Dans cette partie, il s'agira d'étudier l'impact que le projet aura par rapport au développement économique, la création de richesse, la formation, l'éducation, la santé, la protection de l'Environnement ...
+Pour les entreprises industrielles il est nécessaire de prévoir des stratégies permettant de contribuer à la lutte contre la pollution à travers une bonne gestion du traitement des déchets.
+Ceci permettra d'éviter de polluer l'atmosphère, les terres, les cours d'eau, les nappes sous-terraine ...
+Pour les entreprises ou organismes qui bénéficient d'un financement(Etat, bailleurs de fond), il convient d'insister sur l'impact qu'aura le projet sur le plan social et économique(nombre d'emploi créer, amélioration des conditions de vie, formation-sensibilisation ...)
+De nos jours les entreprises orientent leurs politiques de communication sur la responsabilité sociétale de l'entreprise(RSE) car étant une exigence des partenaires et consommateurs 
+L'etude d'impact doit être mis en exergue afin de persuader les bailleurs et partenaires sur la pertinance du projet. Toute fois il faut insister sur sa viabilité afin de garantir sa "pérénité"
